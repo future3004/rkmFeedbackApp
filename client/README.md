@@ -1,4 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Developer: Richard Kalibbbala
+
+## About
+A Full stack web app built with NodeJS, Express, ReactJS, MongoDB and other technologies
 
 ## Available Scripts
 
